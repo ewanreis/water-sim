@@ -1,0 +1,4 @@
+#Thu Oct 06 14:01:14 BST 2022
+base.0=D\:\\Downloads\\watersim\\water-sim\\2D_Test\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

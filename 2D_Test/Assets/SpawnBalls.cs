@@ -12,10 +12,10 @@ public class SpawnBalls : MonoBehaviour
 
     private IEnumerator SpawnCoroutine()
     {
-        for(int i = 0; i < 100; i++)
+        for(int i = 0; i < 200; i++)
         {
             Instantiate(ball, this.transform.position, new Quaternion(0,0,0,0), this.transform);
-            yield return new WaitForSeconds(0.1f);
+            yield return new WaitForSeconds(0.005f);
         }
         yield return null;
     }
